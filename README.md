@@ -17,7 +17,7 @@ I give a short introduction for each part of this project here:
 * **D2toD3** : Provide the camera model and the code for searching the 3D position.
 * **yolo3d** : Encapsulates the Yolo3D camera detector.
 
-You can obtain the model weights and deploy file from the Apollo project or download [here](https://pan.baidu.com/s/1DtUzwOP-hPstyJ35hNcZOQ), extraction code(pg7w).
+You can obtain the model weights and deploy file from the Apollo project.
 
 More details could be found on [Apollo](https://github.com/ApolloAuto/apollo).
 
